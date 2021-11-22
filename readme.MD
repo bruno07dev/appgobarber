@@ -26,12 +26,10 @@
 
 Mobile aplication of gobarber project - made with react native, styled-components, unForm and react-navigation
 
-Soon
-
 Project in development
 
-To see the **api**, click here:
-To see the **web client**, click here:
+To see the **api**, click here: [GoBarber Rest API](https://github.com/bruno07dev/gobarber-api)</br>
+To see the **Web client**, click here: [GoBarber App](https://github.com/bruno07dev/webgobarber)</br>
 
 ## 🚀 Technologies
 
